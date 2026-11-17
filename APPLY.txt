@@ -1,0 +1,13 @@
+HOW TO APPLY (Blue Dex update)
+
+1. Copy everything in this zip over your blue-dex folder (keep the folder structure; overwrite when asked).
+2. Delete the files listed in DELETE_THESE.txt (old placeholder art and the stray nvm-setup.exe).
+3. In the blue-dex folder run:
+     npm install
+     npm test                  (109 tests)
+     npm run catalogue:validate
+     npm run odds
+     npm run cards:preview     (renders sample cards into ./preview)
+4. Your existing local database upgrades itself on the next start (a snapshot is written first).
+5. Run `npm run commands:register` once: /drop is gone, /arc is new.
+6. Put portraits at assets/portraits/<character id>.png (npm run art:check lists the ids still missing).

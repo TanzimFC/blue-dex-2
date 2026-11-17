@@ -1,0 +1,12 @@
+[
+  {
+    "id": "first_selection",
+    "name": "First Selection",
+    "description": "Test arc.",
+    "startsAt": "2026-11-20T00:00:00Z",
+    "endsAt": "2026-12-04T00:00:00Z",
+    "setId": "first_selection",
+    "rateUp": 3,
+    "rewardCardId": "isagi_003"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "isagi_yoichi",
+    "name": "Isagi Yoichi",
+    "aliases": [
+      "Isagi",
+      "Yoichi"
+    ]
+  },
+  {
+    "id": "bachira_meguru",
+    "name": "Bachira Meguru",
+    "aliases": [
+      "Bachira",
+      "Meguru"
+    ]
+  },
+  {
+    "id": "nagi_seishiro",
+    "name": "Nagi Seishiro",
+    "aliases": [
+      "Nagi",
+      "Seishiro"
+    ]
+  },
+  {
+    "id": "chigiri_hyoma",
+    "name": "Chigiri Hyoma",
+    "aliases": [
+      "Chigiri",
+      "Hyoma"
+    ]
+  },
+  {
+    "id": "reo_mikage",
+    "name": "Reo Mikage",
+    "aliases": [
+      "Reo",
+      "Mikage"
+    ]
+  },
+  {
+    "id": "barou_shoei",
+    "name": "Barou Shoei",
+    "aliases": [
+      "Barou",
+      "Shoei",
+      "King"
+    ]
+  }
+]

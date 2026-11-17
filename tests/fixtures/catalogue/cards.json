@@ -1,0 +1,115 @@
+{
+  "sets": [
+    {
+      "id": "genesis",
+      "name": "Genesis"
+    },
+    {
+      "id": "first_selection",
+      "name": "First Selection"
+    }
+  ],
+  "cards": [
+    {
+      "id": "isagi_001",
+      "characterId": "isagi_yoichi",
+      "edition": "Base",
+      "dv": 14.5,
+      "strike": 160,
+      "ego": 163,
+      "team": "Team Z",
+      "setId": "genesis"
+    },
+    {
+      "id": "bachira_001",
+      "characterId": "bachira_meguru",
+      "edition": "Base",
+      "dv": 16.7,
+      "strike": 160,
+      "ego": 161,
+      "team": "Team Z",
+      "setId": "genesis"
+    },
+    {
+      "id": "nagi_001",
+      "characterId": "nagi_seishiro",
+      "edition": "Base",
+      "dv": 19.8,
+      "strike": 164,
+      "ego": 153,
+      "team": "Team V",
+      "setId": "genesis"
+    },
+    {
+      "id": "chigiri_001",
+      "characterId": "chigiri_hyoma",
+      "edition": "Base",
+      "dv": 19.7,
+      "strike": 161,
+      "ego": 156,
+      "team": "Team Z",
+      "setId": "genesis"
+    },
+    {
+      "id": "reo_001",
+      "characterId": "reo_mikage",
+      "edition": "Base",
+      "dv": 26.3,
+      "strike": 146,
+      "ego": 146,
+      "team": "Team V",
+      "setId": "genesis"
+    },
+    {
+      "id": "barou_001",
+      "characterId": "barou_shoei",
+      "edition": "Base",
+      "dv": 9.6,
+      "strike": 162,
+      "ego": 168,
+      "team": "Team X",
+      "setId": "genesis"
+    },
+    {
+      "id": "isagi_002",
+      "characterId": "isagi_yoichi",
+      "edition": "Awakened Eye",
+      "dv": 2.4,
+      "strike": 178,
+      "ego": 181,
+      "team": "Team Z",
+      "description": "Test arc card.",
+      "release": "arc",
+      "versionOf": "isagi_001",
+      "arcId": "first_selection",
+      "setId": "first_selection"
+    },
+    {
+      "id": "barou_002",
+      "characterId": "barou_shoei",
+      "edition": "Ego King",
+      "dv": 1.1,
+      "strike": 198,
+      "ego": 206,
+      "team": "Team X",
+      "description": "Test arc card.",
+      "release": "arc",
+      "versionOf": "barou_001",
+      "arcId": "first_selection",
+      "setId": "first_selection"
+    },
+    {
+      "id": "isagi_003",
+      "characterId": "isagi_yoichi",
+      "edition": "Reward",
+      "dv": 0.4,
+      "strike": 220,
+      "ego": 224,
+      "description": "Arc reward.",
+      "release": "reward",
+      "versionOf": "isagi_001",
+      "setId": "first_selection",
+      "available": false
+    }
+  ]
+}
